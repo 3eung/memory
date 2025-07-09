@@ -1,4 +1,4 @@
-# 💌 Memory: 온라인 타임캡슐 감정일기 앱
+# 💌 Memory: 소셜 타임캡슐 감정일기 앱
 
 > 감정을 기록하고 미래에 다시 꺼내보는, 온라인 타임캡슐 기반 감정일기 플랫폼
 
@@ -20,7 +20,6 @@
 | Frontend | Flutter |
 | Backend  | Spring Boot |
 | Database | MySQL |
-| Realtime | WebSocket |
 | NLP API | Twinword Emotion Analysis |
 | Translation | Google Translate API |
 | Cloud Storage | Firebase Storage |
